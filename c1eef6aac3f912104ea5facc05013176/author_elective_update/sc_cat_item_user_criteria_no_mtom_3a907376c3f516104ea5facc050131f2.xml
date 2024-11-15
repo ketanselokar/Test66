@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_no_mtom">
+    <sc_cat_item_user_criteria_no_mtom action="DELETE">
+        <sc_cat_item display_value="Testing IT ">e24fcdbac3f512104ea5facc0501311d</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_no_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-15 07:03:13</sys_created_on>
+        <sys_id>3a907376c3f516104ea5facc050131f2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Testing IT .SNC External</sys_name>
+        <sys_package display_value="IT Generic Service Request" source="x_761474_it_generi">c1eef6aac3f912104ea5facc05013176</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IT Generic Service Request">c1eef6aac3f912104ea5facc05013176</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_no_mtom_3a907376c3f516104ea5facc050131f2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-15 07:03:13</sys_updated_on>
+        <user_criteria display_value="SNC External">66c1b50e730333009508738234f6a7c9</user_criteria>
+    </sc_cat_item_user_criteria_no_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="IT Generic Service Request">c1eef6aac3f912104ea5facc05013176</application>
+        <file_path/>
+        <instance_id>fade36bc1b4ef958ba5ceb9b2d4bcba4</instance_id>
+        <instance_name>dev191121</instance_name>
+        <name>sc_cat_item_user_criteria_no_mtom_3a907376c3f516104ea5facc050131f2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_no_mtom"><sc_cat_item_user_criteria_no_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="Testing IT ">e24fcdbac3f512104ea5facc0501311d</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_no_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-15 07:03:13</sys_created_on><sys_id>3a907376c3f516104ea5facc050131f2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Testing IT .SNC External</sys_name><sys_package display_value="IT Generic Service Request" source="x_761474_it_generi">c1eef6aac3f912104ea5facc05013176</sys_package><sys_policy/><sys_scope display_value="IT Generic Service Request">c1eef6aac3f912104ea5facc05013176</sys_scope><sys_update_name>sc_cat_item_user_criteria_no_mtom_3a907376c3f516104ea5facc050131f2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-15 07:03:13</sys_updated_on><user_criteria display_value="SNC External">66c1b50e730333009508738234f6a7c9</user_criteria></sc_cat_item_user_criteria_no_mtom></record_update>]]></payload>
+        <payload_hash>2033637848</payload_hash>
+        <record_name>Testing IT .SNC External</record_name>
+        <reverted_from/>
+        <source>42129601932012103f9d74dcebba10c2</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2024-09-08 10:22:27</sys_created_on>
+        <sys_id>f690b376c3f516104ea5facc05013160</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>191d12806b80000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Catalog Item Not Available for</type>
+        <update_guid>7690b3765ef5161076595b1a412ce660</update_guid>
+        <update_guid_history>7690b3765ef5161076595b1a412ce660:2033637848</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Testing IT .SNC External">7e90b376c3f516104ea5facc05013160</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-15 07:03:13</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_no_mtom">sc_cat_item_user_criteria_no_mtom</sys_db_object>
+        <sys_id>77ae45e555384a24aa9010eaa272a210</sys_id>
+        <sys_metadata>3a907376c3f516104ea5facc050131f2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Testing IT .SNC External</sys_name>
+        <sys_package display_value="IT Generic Service Request" source="x_761474_it_generi">c1eef6aac3f912104ea5facc05013176</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="IT Generic Service Request">c1eef6aac3f912104ea5facc05013176</sys_scope>
+        <sys_scope_delete display_value="IT Generic Service Request">28bd0489ff584f80942249f38a0e2400</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_no_mtom_3a907376c3f516104ea5facc050131f2</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_no_mtom_3a907376c3f516104ea5facc050131f2">f690b376c3f516104ea5facc05013160</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-15 07:03:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

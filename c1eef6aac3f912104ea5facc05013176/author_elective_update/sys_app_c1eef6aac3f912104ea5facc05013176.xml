@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app">
+    <sys_app action="DELETE">
+        <active>true</active>
+        <can_edit_in_studio>true</can_edit_in_studio>
+        <enforce_license>none</enforce_license>
+        <guided_setup_guid/>
+        <hide_on_ui>false</hide_on_ui>
+        <ide_created>DS</ide_created>
+        <installed_as_dependency>false</installed_as_dependency>
+        <js_level>es_latest</js_level>
+        <licensable>true</licensable>
+        <license/>
+        <license_category>none</license_category>
+        <license_definition/>
+        <license_model>none</license_model>
+        <logo/>
+        <menu/>
+        <name>IT Generic Service Request</name>
+        <package_json/>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_761474_it_generi</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description/>
+        <source>x_761474_it_generi</source>
+        <store_correlation_id/>
+        <store_url/>
+        <subscription_entitlement/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-14 08:47:32</sys_created_on>
+        <sys_id>c1eef6aac3f912104ea5facc05013176</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-14 08:47:32</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <uninstall_blocked>false</uninstall_blocked>
+        <user_role/>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+    <sys_translated_text action="DELETE" query="documentkey=c1eef6aac3f912104ea5facc05013176"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="IT Generic Service Request">c1eef6aac3f912104ea5facc05013176</application>
+        <file_path/>
+        <instance_id>fade36bc1b4ef958ba5ceb9b2d4bcba4</instance_id>
+        <instance_name>dev191121</instance_name>
+        <name>sys_app_c1eef6aac3f912104ea5facc05013176</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app"><sys_app action="INSERT_OR_UPDATE"><active>true</active><can_edit_in_studio>true</can_edit_in_studio><enforce_license>none</enforce_license><guided_setup_guid/><hide_on_ui>false</hide_on_ui><ide_created>DS</ide_created><installed_as_dependency>false</installed_as_dependency><js_level>es_latest</js_level><licensable>true</licensable><license/><license_category>none</license_category><license_definition/><license_model>none</license_model><logo/><menu/><name>IT Generic Service Request</name><package_json/><private>false</private><restrict_table_access>false</restrict_table_access><runtime_access_tracking>permissive</runtime_access_tracking><scope>x_761474_it_generi</scope><scoped_administration>false</scoped_administration><short_description/><source>x_761474_it_generi</source><store_correlation_id/><store_url/><subscription_entitlement/><sys_class_name>sys_app</sys_class_name><sys_code/><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-14 08:47:32</sys_created_on><sys_id>c1eef6aac3f912104ea5facc05013176</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-14 08:47:32</sys_updated_on><template/><trackable>true</trackable><uninstall_blocked>false</uninstall_blocked><user_role/><vendor/><vendor_prefix/><version>1.0.0</version></sys_app><sys_translated_text action="delete_multiple" query="documentkey=c1eef6aac3f912104ea5facc05013176"/></record_update>]]></payload>
+        <payload_hash>-1967083947</payload_hash>
+        <record_name>IT Generic Service Request</record_name>
+        <reverted_from/>
+        <source>4deef6aac3f912104ea5facc0501317a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-14 08:47:33</sys_created_on>
+        <sys_id>9deef6aac3f912104ea5facc0501317d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19329db39c60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-14 08:47:33</sys_updated_on>
+        <type>Custom Application</type>
+        <update_guid>51eef6aa91f91210db4ba3255946977d</update_guid>
+        <update_guid_history>51eef6aa91f91210db4ba3255946977d:-1967083947</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-15 07:03:11</sys_created_on>
+        <sys_db_object display_value="" name="sys_app">sys_app</sys_db_object>
+        <sys_id>28bd0489ff584f80942249f38a0e2400</sys_id>
+        <sys_metadata>c1eef6aac3f912104ea5facc05013176</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IT Generic Service Request</sys_name>
+        <sys_package display_value="IT Generic Service Request" source="x_761474_it_generi">c1eef6aac3f912104ea5facc05013176</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="IT Generic Service Request">c1eef6aac3f912104ea5facc05013176</sys_scope>
+        <sys_scope_delete display_value="IT Generic Service Request">28bd0489ff584f80942249f38a0e2400</sys_scope_delete>
+        <sys_update_name>sys_app_c1eef6aac3f912104ea5facc05013176</sys_update_name>
+        <sys_update_version display_value="sys_app_c1eef6aac3f912104ea5facc05013176">9deef6aac3f912104ea5facc0501317d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-15 07:03:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
